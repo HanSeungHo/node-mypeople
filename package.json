@@ -1,0 +1,27 @@
+{
+<<<<<<< HEAD
+  "name": "Mypeople Sample BOT",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.5",
+    "jade": "*"
+  }
+}
+=======
+  "name": "MypeopleBot",
+  "version": "0.0.2",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest",
+    "request": "latest",
+    "socket.io": "latest"
+  }
+}
+>>>>>>> 76ca4a58ced85433b596cb32c173de3f48d510a4
